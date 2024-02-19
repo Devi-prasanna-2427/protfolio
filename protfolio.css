@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background: url(https://i.pinimg.com/736x/ce/6b/c7/ce6bc7dbbe5a18f5fa159f3fa0b34bc1.jpg);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+header{
+    background-color: rgb(218, 70, 211);
+    padding: 10px;
+}
+header h2{
+    color: rgb(96, 18, 50);
+}
+nav ul li{
+    display: inline;
+    padding: 10px;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(22, 19, 16);
+}
+#Home img{
+    height: 170px;
+    width: 180px;
+    border-radius: 50%;
+}
+#Home p{
+    word-spacing: 10px;
+}
+#PortFolio{
+    background-color: rgb(181, 124, 185);
+    padding: 10px;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+footer{
+    background-color: rgb(115, 71, 127);
+    padding: 20px;
+}
+footer p{
+    color: rgb(41, 3, 7);
+}
+#Bio pre{
+    line-height:20px;
+    word-spacing: 5px;
+}
